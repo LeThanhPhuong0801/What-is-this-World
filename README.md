@@ -15,3 +15,6 @@
 
 ## Inventory
 ![Inventory](image/Inventory.png)
+
+## Game Over
+![Game Over](image/GameOver.png)
